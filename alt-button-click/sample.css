@@ -1,0 +1,16 @@
+button {
+  padding: 1em 2em;
+  border-radius: 5px;
+  border: 1px solid #1379BE;
+  background: #3598DC;
+  color: white;
+  font-size: 12px;
+  box-shadow: 0 2px 0 #1379BE;
+}
+button:focus{
+  outline:none;
+}
+button:active{
+  outline:none;
+  margin-top: 1px;
+}
