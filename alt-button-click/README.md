@@ -55,7 +55,7 @@ btnClicks
       }
       if (jq) { ★ここに入る
         var $elem = jq(element);
-        return fromEventPattern(šfromEventPattern()‚★fromEventPattern()を呼び出す
+        return fromEventPattern( ★fromEventPattern()を呼び出す
           function (h) { $elem.on(eventName, h); },
           function (h) { $elem.off(eventName, h); },
           selector);
